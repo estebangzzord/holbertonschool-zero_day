@@ -1,1 +1,2 @@
-My first readme
+My first readme npm version patch npm publish
+
